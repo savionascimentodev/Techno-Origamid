@@ -1,0 +1,20 @@
+{
+  "id": "notebook",
+  "name": "Notebook",
+  "price": 2999,
+  "description": "Um computador portátil que possui hoje capacidades de processamento e armazenamento próximas dos computadores desktops, o que lhe assegura funções de multimídia de alta tecnologia (leitura de DVD, videogames, processamento de imagens em 3D, etc.).",
+  "inventory": 12,
+  "img": "./api/products/notebook/notebook-foto.jpg",
+  "reviews": [
+    {
+      "name": "Fábio",
+      "stars": 5,
+      "description": "Gostei muito do produto, atendeu todas as minhas necessidades."
+    },
+    {
+      "name": "Carla",
+      "stars": 4,
+      "description": "Muito bom, mas poderia ser um pouco mais barato."
+    }
+  ]
+}
